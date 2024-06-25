@@ -66,7 +66,7 @@ Config.Discord = {
         },
         {
             text = 'Social Media',
-            url = 'fivem://connect/localhost:30120'
+            url = 'https://www.youtube.com/channel/UCN7uwZYMForN2pXp9hgfVEQ'
         }
     }
 }
